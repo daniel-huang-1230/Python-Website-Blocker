@@ -13,8 +13,9 @@ time in a day.
   wake up your machine from the sleep mode. Here's a great **[tutorial for launchd](http://www.launchd.info/)** and it walks you 
   through how to configure the **property list** on Mac, which is a special XML file.
   
-# Screenshot of facebook.com being blocked
-<img width="1436" alt="2017-11-30 11 57 04 pm" src="https://user-images.githubusercontent.com/19476654/33473278-97f54f02-d62a-11e7-993a-04f656e379dd.png">
+# What you will see when the website you are trying visit is blocked
+<img width="1433" alt="2017-12-01 12 05 43 am" src="https://user-images.githubusercontent.com/19476654/33473547-baaee3a4-d62b-11e7-8b32-e90728aee3ea.png">
+
 
   
 # License
