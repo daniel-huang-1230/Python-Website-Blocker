@@ -3,7 +3,7 @@ from datetime import datetime as dt
 hosts_path = r"/etc/hosts"   # r is for raw string
 hosts_temp = "hosts"
 redirect = "127.0.0.1"
-web_sites_list = ["www.facebook.com", "facebook.com"]
+web_sites_list = ["www.facebook.com", "facebook.com"]     # users can modify the list of the websites they want to block
 
 while True:
     if dt(dt.now().year, dt.now().month, dt.now().day, 9) < dt.now() < dt(dt.now().year, dt.now().month, dt.now().day,22):
